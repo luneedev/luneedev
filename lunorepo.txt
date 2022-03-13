@@ -1,3 +1,6 @@
 obj1
+https://speed.hetzner.de/100MB.bin
 obj2
+https://speed.hetzner.de/1GB.bin
 obj3
+https://speed.hetzner.de/10GB.bin
