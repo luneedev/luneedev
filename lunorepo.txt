@@ -4,3 +4,11 @@ test1g
 https://speed.hetzner.de/1GB.bin
 test10g
 https://speed.hetzner.de/10GB.bin
+onlyoffice-deb
+https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors_amd64.deb
+onlyoffice-rpm
+https://download.onlyoffice.com/install/desktop/editors/linux/onlyoffice-desktopeditors.x86_64.rpm
+onlyoffice-appimage
+https://download.onlyoffice.com/install/desktop/editors/linux/DesktopEditors-x86_64.AppImage
+mint-y-icons
+http://packages.linuxmint.com/pool/main/m/mint-y-icons/mint-y-icons_1.5.9_all.deb
